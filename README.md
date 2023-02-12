@@ -1,4 +1,4 @@
-### Hi 👋, I'm Álvaro
+### Hi 👋, I’m Álvaro
 
 <!--
 **alvvazort/alvvazort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my [Undergraduate Thesis Project about AI][AIDRONE] for prevent forest fires
 - 🌱 I’m currently finishing my last year of Software engineering in University of Seville
+- 🧐 I'm looking for a practice in a company
 - 📫 How to reach me: alvvazort@gmail.com
 
 
