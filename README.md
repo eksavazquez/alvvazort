@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🧐 I'm looking for a practice in a company
 - 📫 How to reach me: alvvazort@gmail.com
 
-## Languages Tools and Technologies
+## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
