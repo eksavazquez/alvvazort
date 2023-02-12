@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Undergraduate [link][AIDRONE] for prevent forest fires
+- 🔭 I’m currently working on my [Undergraduate Thesis Project about AI][AIDRONE] for prevent forest fires
 - 🌱 I’m currently finishing my last year of Software engineering in University of Seville
 - 📫 How to reach me: alvvazort@gmail.com
 
