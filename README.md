@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 
-[AIDRONE]: [http:www.tuenlace.com](https://github.com/alvvazort/AIDrone)
+[AIDRONE]: [https://github.com/alvvazort/AIDrone]
