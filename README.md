@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 💻 This is my [devfolio][https://alvvazort.github.io]
 - 🔭 I’ve done an [Undergraduate Thesis Project about AI][AIDRONE] for prevent wildfires
-- 🌱 I’ve finished my last year of Software engineering in University of Seville
+- 🌱 I’ve finished Software engineer degree in University of Seville
 - 📫 How to reach me: alvvazort@gmail.com
 
 ### Languages
