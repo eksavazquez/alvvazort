@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 This is my [devfolio](https://alvvazort.github.io)
+- 💻 This is my [devfolio](https://eksavazquez.github.io)
 - 🔭 I’ve done an [Undergraduate Thesis Project about AI][AIDRONE] for prevent wildfires
 - 🌱 I’ve finished Software engineer degree in University of Seville
 - 📫 How to reach me: alvvazort@gmail.com
